@@ -30,9 +30,31 @@ Investors in an Income REIT generally receive returns from two complementary sou
 To compute: 
 
 a)  Share Price Capital Appreciation % = (( Purchase share price(Original purchase price paid by the investor) / (Current share purchase price(Currentmarket price of the unit))
+
 b)  NAV Growth % = ((Current NAV per share- Previous NAV per share)/ Previous NAV per share))
 
-## Development REIT (D-REIT)
+    Development REIT (D-REIT): 
+
+It focuses on creating value by developing new real estate projects rather than acquiring completed income producing properties. Investors commit capital during the development phase with the expectation that value will be created through planning, construction, leasing, stabilisation and eventual sale, refinancing or transfer of the completed asset.
+
+Unlike an Income REIT, where returns are primarily generated from recurring rental income, a Development REIT creates shareholder value through the successful execution of development projects and the increase in asset value from inception to completion.
+
+The lifecycle of a Development REIT can be effectively understood using the PRINCE2 method, where each stage represents a key milestone in transforming an initial investment into a completed real estate asset.
+
+| Project Phase                                    | Activities                                                                                                                                                                | Funding                                                                                                                                                                             |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Gate 0 – Preliminary Investment Review (PIR)** | • Site selection<br>• Land valuation<br>• Market feasibility study<br>• Legal due diligence<br>• Environmental & Social due diligence<br>• Preliminary financial analysis | **Sponsor / Seed Equity**<br><br>Funds feasibility studies, advisory fees, due diligence and land option agreements.                                                                |
+| **Gate 1 – Business Case**                       | • Land acquisition<br>• Commence design<br>• Site investigations<br>• Financial modelling<br>• Budget preparation<br>• Investment Committee approval                      | **Equity Capital**<br><br>Funds land acquisition, design costs and all pre-development expenditure.                                                                                 |
+| **Gate 2 – Pre-Development**                     | • Statutory approvals<br>• Planning approvals<br>• Tender process<br>• Contractor procurement<br>• Lender due diligence                                                   | **Equity + Debt Commitment**<br><br>Equity continues funding while development debt is negotiated and approved.                                                                     |
+| **Gate 3 – Construction**                        | • Active onsite management<br>• Contractor supervision<br>• Procurement<br>• Quality control<br>• Cost management<br>• Schedule monitoring                                | **Development Debt**<br><br>Primary funding source. Loan drawdowns finance construction while equity remains first-loss capital.                                                    |
+| **Gate 4 – Stabilisation & Exit**                | • Commission completed buildings<br>• Lease-up<br>• Stabilise occupancy<br>• Independent valuation<br>• Sale / Refinance / Transfer to I-REIT                             | **Rental Income / Refinancing / Asset Sale**<br><br>Repay development debt and distribute remaining value to equity investors through development profits and capital appreciation. |
+
+
+
+
+
+
+
 
 
 
