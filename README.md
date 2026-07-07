@@ -71,6 +71,104 @@ After the clear understanding of what is REITs to the type of it, the next stage
 | **Dividend Discount Model (DDM)** | **Purpose:** Determines the intrinsic value of the REIT based on expected future dividend distributions.<br><br>**Formula**<br>**Intrinsic Value = D₁ ÷ (r − g)**<br><br>**Model Inputs**<br>• Dividend per Unit = **KES 1.25**<br>• Dividend Growth Rate = **4.00%**<br>• Required Return = **15.00%**<br><br>**Model Output**<br>✔ Intrinsic Value = **KES 11.82 per unit**                                                                                                                                                    | DDM estimates the value of the REIT from the perspective of an income-focused investor. Since REITs are designed to distribute a significant proportion of earnings, this methodology evaluates the present value of future dividend income and supports investment decisions centred on recurring cash distributions.                  |
 
 
+    Why Multiple Valuation Methods: 
+
+Each valuation methodology captures a different aspect of the REIT's economic value. While Net Asset Value focuses on the fair value of the underlying property portfolio, Discounted Cash Flow estimates future cash generation, Capitalisation Rate Analysis evaluates the market value of income producing assets and the Dividend Discount Model focuses on shareholder distributions.
+
+Because every methodology is based on different assumptions, inputs and valuation principles, it is expected that each produces a different estimate of intrinsic value. Rather than relying on a single valuation technique, this model triangulates value across multiple approaches to improve analytical robustness and provide a more comprehensive assessment of investment performance.
+
+    Model Validation & Audit: 
+	
+The Model requires validation of the outputs to ensure internally consistent, technically accurate and directly comparable.The observation are as: 
+
+| **Review Area**                   | **Observation**                                                                                                                                                                                                                                                                                                                          | **Recommendation**                                                                                                                                                                           |
+| :-------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Net Asset Value (NAV)**         | The NAV calculation reconciles correctly from Total Assets less Total Liabilities, producing a Net Asset Value of **KES 5.18 billion** and **KES 28.69 per unit**.                                                                                                                                                                       | No adjustment required. This valuation establishes the benchmark for intrinsic asset value.                                                                                                  |
+| **Dividend Discount Model (DDM)** | The Dividend Discount Model applies the Gordon Growth Model consistently and produces an intrinsic value of **KES 11.82 per unit**.                                                                                                                                                                                                      | No adjustment required. The valuation is presented on a per-unit basis consistent with NAV.                                                                                                  |
+| **Discounted Cash Flow (DCF)**    | The DCF valuation (**KES 7,128.44**) differs materially from the NAV and DDM outputs. While different valuation methodologies are expected to produce different estimates, the scale of this difference suggests that the valuation may currently be presented on a different measurement basis (portfolio value versus per-unit value). | Review the conversion from portfolio equity value to per-unit value, including the treatment of units outstanding and any ×1,000 conversion factors, to ensure consistency across the model. |
+| **Capitalisation Rate Analysis**  | The implied valuation (**KES 23,286.54**) is materially higher than the NAV per unit despite a reasonable current cap rate of **5.72%**. This indicates that the property valuation is likely being presented using a different reporting basis.                                                                                         | Standardise the conversion from portfolio value to per-unit value so that the valuation is directly comparable with NAV and DDM.                                                             |
+| **Summary Worksheet**             | The Summary combines valuation methodologies that are not currently reported on a consistent basis. This may affect the interpretation of weighted valuation outputs.                                                                                                                                                                    | Standardise all valuation methodologies to a common reporting basis before calculating weighted average valuations or issuing a final investment recommendation.                             |
+
+
+    Key Validation Observations: 
+
+The review identified that the underlying valuation methodologies are conceptually sound and based on accepted real estate finance principles. The primary area requiring refinement relates to the presentation of valuation outputs rather than the valuation techniques themselves.
+
+a) NAV and DDM are presented on a per unit basis, allowing direct comparison with the REIT's market price.
+
+b) DCF and Capitalisation Rate Analysis appear to be presented on a portfolio valuation basis before conversion to a per-unit value, resulting in outputs that are not directly comparable with NAV and DDM.
+
+c) Standardising all valuation methodologies to a common reporting basis will improve consistency, strengthen the Summary worksheet and provide a more reliable basis for comparing intrinsic value across methodologies.
+
+    Sensitivity Analysis:
+Valuation is inherently dependent on assumptions. Small changes in market conditions, financing costs, rental growth, occupancy levels or exit yields can materially affect the estimated intrinsic value. 
+
+# Purpose of the Sensitivity Analysis:
+
+a) Assess the robustness of the valuation under different market scenarios.
+b) Identify the variables that have the greatest influence on intrinsic value.
+c) Evaluate downside and upside valuation risk.
+d) Support investment decision making through scenario analysis.
+e) Improve confidence in the final investment recommendation.
+
+Rather than assuming a single outcome, sensitivity analysis acknowledges that financial markets are dynamic and that valuation should be interpreted as a range rather than a fixed number.
+
+| **Sensitivity Variable** | **Impact on the Model**                                                                        | **Investment Interpretation**                                                                                                                                        |
+| :----------------------- | :--------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Discount Rate (WACC)** | Changes the present value of future cash flows used within the Discounted Cash Flow valuation. | Higher discount rates reduce intrinsic value, while lower discount rates increase valuation. This reflects changes in financing costs and required investor returns. |
+| **Terminal Growth Rate** | Alters the Terminal Value used in the DCF valuation.                                           | Higher long-term growth assumptions increase intrinsic value, while lower growth expectations reduce valuation.                                                      |
+| **Capitalisation Rate**  | Changes the implied market value of the investment property portfolio.                         | Lower capitalisation rates increase property values, whereas higher capitalisation rates reduce portfolio valuations.                                                |
+| **Occupancy Rate**       | Influences rental income, Net Operating Income (NOI) and operating cash flows.                 | Higher occupancy improves recurring income and cash generation, supporting higher valuations.                                                                        |
+| **Rental Growth**        | Determines the growth trajectory of rental revenue throughout the forecast period.             | Strong rental growth improves future cash flows and increases the intrinsic value of the REIT.                                                                       |
+| **Operating Expenses**   | Affects Net Operating Income and Free Cash Flow to Equity.                                     | Higher operating costs reduce profitability and lower valuation outcomes.                                                                                            |
+
+# What the Sensitivity Analysis Demonstrates
+
+The sensitivity analysis illustrates that REIT valuations are influenced by both internal operating performance and external market conditions.
+
+From an investment perspective:
+
+a) Strong occupancy and sustainable rental growth increase cash flows, supporting higher intrinsic values.
+b) Rising discount rates or market capitalisation rates reduce asset values by increasing the return required by investors.
+c) Operational efficiency improves Net Operating Income, strengthening both DCF and Capitalisation Rate valuations.
+d) Stable dividend growth supports higher Dividend Discount Model valuations.
+
+Rather than identifying a single "correct" valuation, the sensitivity analysis demonstrates the range of potential intrinsic values that may arise under different market conditions.
+
+    Investment Summary:
+
+The Investment Summary consolidates the outputs from each valuation methodology into a single decision making framework. Rather than relying on one valuation technique, the model evaluates the REIT from multiple financial perspectives to develop a balanced assessment of intrinsic value and investment attractiveness.
+
+| **Valuation Method**              | **Primary Focus**       | **Key Insight**                                                                                                 |
+| :-------------------------------- | :---------------------- | :-------------------------------------------------------------------------------------------------------------- |
+| **Net Asset Value (NAV)**         | Asset backed valuation  | Measures the intrinsic value of the underlying property portfolio after deducting liabilities.                  |
+| **Discounted Cash Flow (DCF)**    | Future cash generation  | Estimates the present value of future Free Cash Flow to Equity generated by the REIT.                           |
+| **Capitalisation Rate Analysis**  | Income producing assets | Estimates the market value of investment properties based on Net Operating Income and prevailing market yields. |
+| **Dividend Discount Model (DDM)** | Shareholder income      | Estimates the intrinsic value of the REIT based on expected future dividend distributions.                      |
+
+    Key Investment Considerations:
+
+| **Assessment Area**          | **Key Consideration**                                                      |
+| :--------------------------- | :------------------------------------------------------------------------- |
+| **Asset Quality**            | Evaluated through Net Asset Value and Capitalisation Rate Analysis.        |
+| **Cash Flow Sustainability** | Assessed using the Discounted Cash Flow valuation.                         |
+| **Income Generation**        | Evaluated using the Dividend Discount Model and projected dividend growth. |
+| **Financial Strength**       | Supported by the Balance Sheet, leverage profile and Net Asset Value.      |
+| **Operational Performance**  | Assessed through occupancy levels, rental growth and Net Operating Income. |
+| **Valuation Risk**           | Evaluated through Sensitivity Analysis and scenario testing.               |
+
+    Overall Investment Conclusion
+
+The model demonstrates a comprehensive valuation framework by combining asset based, income based and cash flow based valuation. Each approach contributes a different perspective on intrinsic value, enabling investors to assess the REIT's financial performance beyond a single valuation metric. By integrating multiple valuation techniques, scenario analysis and model validation, this financial model provides a structured framework for assessing intrinsic value, evaluating investment risk and supporting informed real estate investment decisions.	
+
+    Disclaimer: 
+This model was developed for educational and portfolio purposes to demonstrate financial modelling, valuation and investment analysis techniques applicable in REITs, it should not be interpreted as investment advice or a recommendation to buy or sell any security.
+
+
+
+
+
+
 
 
 
